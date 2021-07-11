@@ -1,0 +1,15 @@
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\RestSharpProject.deps.json
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\RestSharpProject.runtimeconfig.json
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\RestSharpProject.runtimeconfig.dev.json
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\RestSharpProject.dll
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\RestSharpProject.pdb
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\obj\Debug\netcoreapp2.1\RestSharpProject.csproj.CoreCompileInputs.cache
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\obj\Debug\netcoreapp2.1\RestSharpProject.AssemblyInfoInputs.cache
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\obj\Debug\netcoreapp2.1\RestSharpProject.AssemblyInfo.cs
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\obj\Debug\netcoreapp2.1\RestSharpProject.dll
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\obj\Debug\netcoreapp2.1\RestSharpProject.pdb
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\obj\Debug\netcoreapp2.1\RestSharpProject.csprojAssemblyReference.cache
+D:\RESTAPITESTING\RestSharpProject\RestSharpProject\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
